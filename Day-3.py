@@ -1,4 +1,5 @@
-# Data Types :- Num,Strings,list, tuple, Sets
+
+#^ Data Types :- Num,Strings,list, tuple, Sets
 #? Printing Types  of Function
     # x="Friction"
     # y=123
