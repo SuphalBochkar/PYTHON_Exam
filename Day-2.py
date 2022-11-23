@@ -1,4 +1,5 @@
-# Add,Substitute
+
+#^ Add,Substitute
 # ? Substituting
     # x="pi"
     # y=3.414
@@ -20,7 +21,7 @@
     # p=50.5
     # print(p)
     # q=10
-    # q=q*20    #! We can Use More Times
+    # q=q*20    #! We can Use for printing multiple Times
     # print(p+q)
 # ? Equality
     # a=33
