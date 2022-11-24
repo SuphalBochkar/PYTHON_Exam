@@ -24,4 +24,8 @@
 # print("     ",n)
 # print(f'  {n}')                       #!format prints exact
 # print(f'    {n}')
-
+# ?Order and unicode ASCII
+# c=input()
+# o=ord(c)
+# print(o)
+# print(chr(o*2))
