@@ -18,4 +18,10 @@
 # a=format(x,'b')
 # b=format(x,'o')
 # print(f'{a},{b}')
+# ?Spacing in comma and format
+# n=input()
+# print("  ",n)                        #!Comma Prints Extra Space
+# print("     ",n)
+# print(f'  {n}')                       #!format prints exact
+# print(f'    {n}')
 
