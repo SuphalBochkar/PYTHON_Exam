@@ -12,4 +12,10 @@
 # q=int(input("Q: "))
 # r=p*q
 # print(f'p={p:.6f},q={q},product{r:.6f}')
+# ?Binary And Octal
+# x=int(input())
+# y=int(input())
+# a=format(x,'b')
+# b=format(x,'o')
+# print(f'{a},{b}')
 
