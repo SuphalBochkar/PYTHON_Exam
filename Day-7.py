@@ -15,4 +15,10 @@
 # s=input()
 # !M-1     Length limit (Eg:5)
 # print(f'{s[-1]}{s[1]}{s[2]}{s[3]}{s[0]}')
+# !M-2
+# b=""
+# for i in range (1,len(s)-2):
+#     b+= s[i]
+# print(s[-1]+b+s[0])
+# ?Years Months Days
 
