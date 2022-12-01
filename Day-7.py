@@ -11,4 +11,8 @@
 #     print(f'{((c*(9/5))+32):.2f}')
 
 
+# ?Swap Last and First
+# s=input()
+# !M-1     Length limit (Eg:5)
+# print(f'{s[-1]}{s[1]}{s[2]}{s[3]}{s[0]}')
 
