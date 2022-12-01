@@ -9,8 +9,6 @@
 # c=float(input())
 # if 1.00<=c<=57.00:
 #     print(f'{((c*(9/5))+32):.2f}')
-
-
 # ?Swap Last and First
 # s=input()
 # !M-1     Length limit (Eg:5)
@@ -21,10 +19,10 @@
 #     b+= s[i]
 # print(s[-1]+b+s[0])
 # ?Years Months Days
-days=int(input())
-years=days//365
-remain_days=days%365
-months=remain_days//30
-remain_days1=remain_days%30
-print(f'Y:{years} M:{months} D:{remain_days1}')
+# days=int(input())
+# years=days//365
+# remain_days=days%365
+# months=remain_days//30
+# remain_days1=remain_days%30
+# print(f'Y:{years} M:{months} D:{remain_days1}')
 
