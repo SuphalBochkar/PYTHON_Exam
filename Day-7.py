@@ -21,4 +21,10 @@
 #     b+= s[i]
 # print(s[-1]+b+s[0])
 # ?Years Months Days
+days=int(input())
+years=days//365
+remain_days=days%365
+months=remain_days//30
+remain_days1=remain_days%30
+print(f'Y:{years} M:{months} D:{remain_days1}')
 
