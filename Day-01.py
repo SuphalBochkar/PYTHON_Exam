@@ -7,3 +7,9 @@
     # x="Anaconda"
     # print(x*3)
 
+#? Printing Different lines
+    # M-1
+    # print("Hii")
+    # print("Bye")
+    # M-2
+    # print("hii\nBye")
