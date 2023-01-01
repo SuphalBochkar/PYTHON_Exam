@@ -13,3 +13,11 @@
     # print("Bye")
     # M-2
     # print("hii\nBye")
+#? Taking Input
+    # n=int(input("n: "))
+    # print("xyz"*n)
+#? For Checking keyword
+    # import keyword
+    # print(keyword.kwlist)
+#? Commenting
+    # Press ctrl + / to comment
