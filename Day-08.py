@@ -10,3 +10,18 @@
 # print(int(input())//10)
 
 #? // for 2 inputs
+# print(int(input())//int(input()))
+
+#? Formating and printing
+# print(f'{input()}_{input()}_{int(input())}')
+
+# ?Case lower uppen testing
+# a = input()
+# print(a[0]!=a[-1])
+
+
+
+
+
+
+
