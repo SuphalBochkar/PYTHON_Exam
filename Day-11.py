@@ -1,4 +1,5 @@
-# Even Indexed
+
+#? Even Indexed
     # s="LANGUAGE"
     # M-1
     # print(s[0])
@@ -9,20 +10,20 @@
     # for i in range (len(s)):
     #     if i%2 == 0:
     #         print(s[i])
-# Comma is space
+#? Comma is space
     # p = 253
     # q="Odd Number"
     # print(p,"is a",q)
-# Text Multipyes
+#? Text Multipyes
     # p="abc "
     # print(p*5)
     
-# Printing First and last indexs
+#? Printing First and last indexs
     # x=str("programming")
     # z=[0,1,2,-3,-2,-1]
     # for i in z:
     #     print(x[i])
-# Complex Number
+#? Complex Number
     # a=3+4j
     # b=5+8j
     # print(a*b)
